@@ -126,6 +126,9 @@ const login = async (email, password) => {
 
 
 ## 📸 Screenshots
+## 📱 App Preview
+
+![App Preview](./homee.png)
 
 
 
